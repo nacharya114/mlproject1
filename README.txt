@@ -1,7 +1,7 @@
 ##Author: Neil Acharya 
 ##CS 4641 Project 1 Submission
 
-Link to code:
+Link to code: https://github.gatech.edu/nacharya7/CS4641Project1Submission
 ###########################################################
 # Instruction
 ###########################################################
